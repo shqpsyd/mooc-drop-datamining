@@ -1,0 +1,17 @@
+enrollment_list.csv
+['enrollment_id', 'user_id', 'course_id']
+e.g ['1', 'Mv7P1v8fRDifebDlgIi2Vl1Z', 'ev4oSPQOjeL5QAf5oF72ooYu']
+
+activity_log.csv
+['enrollment_id', 'time', 'event']
+e.g ['1', '2014-05-31T12:43:20', 'navigate']
+
+sample_submission.csv
+['enrollment_id', 'dropout_prob']
+e.g ['72326', '0.89875500179']
+
+train_label.csv
+['enrollment_id', 'dropout_prob']
+['1', '1']
+
+
